@@ -1,0 +1,3 @@
+﻿  Дерево.cpp
+D:\Проекты Visual studio\Tree\Дерево.cpp(284,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Tree.vcxproj -> D:\Проекты Visual studio\Tree\x64\Debug\Tree.exe
